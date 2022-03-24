@@ -1,0 +1,4 @@
+aaa 20
+aab 200
+bba 45
+aba 14
