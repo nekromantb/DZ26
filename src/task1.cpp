@@ -80,6 +80,7 @@ public:
             std::cout << "Resuming playing" << std::endl;
             condition = PLAY;
             playing_now.getTrackInfo();
+            start_playing = std::time(nullptr);
         }
     }
 
