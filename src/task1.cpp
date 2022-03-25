@@ -157,4 +157,7 @@ void task1()
         else if (command == "exit")
             break;
     }
+    delete player;
+    player = nullptr;
+    delete player;
 }
