@@ -1,7 +1,6 @@
 #include "task3.h"
 #include <iostream>
-#include <cstdlib>
-#include <cassert>
+
 
 #define SCREENWIGHT 80
 #define SCREENHEIGHT 60
