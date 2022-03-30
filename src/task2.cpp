@@ -3,7 +3,6 @@
 #include <map>
 #include <cassert>
 #include <fstream>
-#include <vector>
 
 bool stringIsNumber(std::string input)
 {
